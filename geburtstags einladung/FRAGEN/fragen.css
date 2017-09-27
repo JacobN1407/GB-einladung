@@ -1,0 +1,18 @@
+body {
+    background-image: url("../img/galaxy_pp.jpg");
+    background-size: 100%;
+    background: cover;
+}
+
+
+
+
+
+
+.einladung{
+    color: #DED64B;
+    font-size: 30px;
+    margin: 0 auto;
+        padding-bottom: 50px;
+        width: 80%;
+        max-width: 978px;
