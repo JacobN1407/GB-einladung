@@ -1,7 +1,8 @@
-/* keine angst die tomaten bleiben nicht*/
+/* keine angst die tomaten bleiben nicht
 body {
     background-image: url("../img/img_tomatoes.jpg");
 }
+*/
 
 
 .chromeframe {
@@ -368,8 +369,7 @@ h1 {
     }
 }
 
-/* 
-	Ok so you have made it this far, that means you are very keen to on my code. 
-	Anyway I don't really mind it. This is a great way to learn so you actually doing the right thing:)
-	Follow me @ihatetomatoes
-*/
+.einladung{
+    color: black;
+    font-size: 30px;
+}
